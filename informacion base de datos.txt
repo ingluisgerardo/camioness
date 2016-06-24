@@ -1,0 +1,21 @@
+a1181985_planet	db
+a1181985_planet	usr
+mysql5.000webhost.com mysql
+
+
+
+
+Host FTP	ftp.trasportes.hol.es 
+IP FTP	31.170.164.221
+Puerto FTP	21
+Usuario FTP	u376900231
+Contraseña FTP	
+••••••••••
+Carpeta dónde Cargar Archivos	public_html
+¿Olvidaste tu contraseña FTP?	Cambiar contraseña de la cuenta 
+Clientes FTP recomendados	SmartFTP  o FileZilla 
+
+
+
+Base de Datos MySQL	Usuario MySQL		Host MySQL		Uso de Disco, Mb
+u376900231_cam		u376900231_gerar	mysql.hostinger.es	0.02
